@@ -1,0 +1,257 @@
+Name,Link,Type,Teams,Timesplit,Timesplit Avail.,Tabular,Status,Notes,Deadline
+home-credit-credit-risk-model-stability,https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/,Featured,3858,1,1,1,y,In the benchmark,2024-28-05 23:59
+open-problems-single-cell-perturbations,https://www.kaggle.com/competitions/open-problems-single-cell-perturbations,Featured,1097,0,0,1,?,"Open scientific problem, good dataset",2023-11-30 23:59
+icr-identify-age-related-conditions,https://www.kaggle.com/competitions/icr-identify-age-related-conditions,Featured,6430,0,0,1,?,"Medical/scientific data, very small sample size, might be good",2023-08-10 23:59
+predict-student-performance-from-game-play,https://www.kaggle.com/competitions/predict-student-performance-from-game-play,Featured,2051,1,0,1,n,No timestamps available. No other problems,2023-06-28 23:59
+godaddy-microbusiness-density-forecasting,https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting,Featured,3385,1,1,1,?,"Small forecasting problem, where linear forecasts work best.",2023-06-16 23:59
+amp-parkinsons-disease-progression-prediction,https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction,Featured,2197,1,1,1,?,"Medical data, small sample size",2023-05-18 23:59
+march-machine-learning-mania-2023,https://www.kaggle.com/competitions/march-machine-learning-mania-2023,Featured,1033,1,1,1,?,Forecasting sports matches. Overlooked due to task specifics,2023-04-04 16:00
+learning-equality-curriculum-recommendations,https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations,Featured,1057,0,0,1,?,Multimodal tables (text fields). Not a typical tabular task,2023-03-14 23:59
+otto-recommender-system,https://www.kaggle.com/competitions/otto-recommender-system,Featured,2574,1,1,1,?,"RecSys task, not a supervised tabular problem",2023-01-31 23:59
+open-problems-multimodal,https://www.kaggle.com/competitions/open-problems-multimodal,Featured,1220,1,1,1,?,"Scientific data (DNA, RNA, protein measurements), non-standard tabular task",2022-11-15 23:59
+jpx-tokyo-stock-exchange-prediction,https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction,Featured,1039,1,1,1,?,"Market forecasting, hard to test, simple if and sort based solutions are at the top of the leaderboard",2022-10-07 23:59
+amex-default-prediction,https://www.kaggle.com/competitions/amex-default-prediction,Featured,4874,1,0,1,n,"No timesplit from train data possible, othervise a good dataste",2022-08-24 23:59
+ubiquant-market-prediction,https://www.kaggle.com/competitions/ubiquant-market-prediction,Featured,2435,1,1,1,n,Data Removed From Kaggle. Otherwise good,2022-07-19 17:04
+g-research-crypto-forecasting,https://www.kaggle.com/competitions/g-research-crypto-forecasting,Featured,1946,1,1,1,?,"Good Data, overlooked due to domain specifics, may add in the future",2022-05-03 23:59
+mens-march-mania-2022,https://www.kaggle.com/competitions/mens-march-mania-2022,Featured,930,1,1,1,?,Forecasting sports matches. Overlooked due to task specifics,2022-04-05 04:00
+womens-march-mania-2022,https://www.kaggle.com/competitions/womens-march-mania-2022,Featured,651,1,1,1,?,Forecasting sports matches. Overlooked due to task specifics,2022-04-04 15:00
+optiver-realized-volatility-prediction,https://www.kaggle.com/competitions/optiver-realized-volatility-prediction,Featured,3809,1,0,1,n,No time data (only time-id feature which is obfuscated),2022-01-10 18:36
+mlb-player-digital-engagement-forecasting,https://www.kaggle.com/c/mlb-player-digital-engagement-forecasting,Featured,852,1,1,1,?,Sports forecasting. Overlooked due to task specifics and domain,2021-09-15 23:59
+lish-moa,https://www.kaggle.com/c/lish-moa,Research,4373,0,0,1,?,"Scientific data. Gene data, experimental task",2020-11-30 23:59
+m5-forecasting-accuracy,https://www.kaggle.com/c/m5-forecasting-accuracy,Featured,5558,1,1,1,?,"No features other than lags, otherwise fine",2020-06-30 23:59
+nfl-big-data-bowl-2020,https://www.kaggle.com/c/nfl-big-data-bowl-2020,Featured,2038,0,0,1,?,Game play analytics. Not a typical tabular ML task,2020-01-06 23:59
+ashrae-energy-prediction,https://www.kaggle.com/c/ashrae-energy-prediction,Featured,3614,1,1,1,?,"No major issues, timesplit is available. Limited number of features in top solutions",2019-12-19 23:59
+ieee-fraud-detection,https://www.kaggle.com/c/ieee-fraud-detection,Research,6351,1,0,1,n,No time and UID data available.,2019-10-03 23:59
+santander-customer-transaction-prediction,https://www.kaggle.com/c/santander-customer-transaction-prediction,Featured,8751,1,0,1,n,"No time data, issues with preprocesing (independent features)",2019-04-10 23:59
+microsoft-malware-prediction,https://www.kaggle.com/c/microsoft-malware-prediction,Research,2410,1,0,1,n,No timesplit possible,2019-03-13 23:59
+elo-merchant-category-recommendation,https://www.kaggle.com/c/elo-merchant-category-recommendation,Featured,4110,1,1,1,n,Might be synthetic (discussed on the forums),2019-02-26 23:59
+ga-customer-revenue-prediction,https://www.kaggle.com/c/ga-customer-revenue-prediction,Featured,3611,1,1,1,?,"No established FE pipeline, otherwise good",2019-02-21 20:04
+PLAsTiCC-2018,https://www.kaggle.com/c/PLAsTiCC-2018,Featured,1089,0,0,1,?,"Astronomy, not a typical tabular ML problem",2018-12-17 23:59
+home-credit-default-risk,https://www.kaggle.com/c/home-credit-default-risk,Featured,7176,1,0,1,n,No timesplit possible,2018-08-29 23:59
+santander-value-prediction-challenge,https://www.kaggle.com/c/santander-value-prediction-challenge,Featured,4463,1,0,1,n,Unknown preprocessing (multiple time-series data with no way to unravel),2018-08-20 23:59
+talkingdata-adtracking-fraud-detection,https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection,Featured,3943,1,1,1,n,Duplicate samples (unknown source of duplicates),2018-05-07 23:59
+recruit-restaurant-visitor-forecasting,https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting,Featured,2148,1,1,1,?,"No features other than lags, otherwise fine",2018-02-06 23:59
+favorita-grocery-sales-forecasting,https://www.kaggle.com/c/favorita-grocery-sales-forecasting,Featured,1671,1,1,1,?,"No established FE pipeline, otherwise ok",2018-01-15 23:59
+zillow-prize-1,https://www.kaggle.com/c/zillow-prize-1,Featured,3770,1,1,1,?,No established FE pipeline,2018-01-10 15:59
+kkbox-churn-prediction-challenge,https://www.kaggle.com/c/kkbox-churn-prediction-challenge,Research,574,1,0,1,n,No way to create a local time split. Data annotation issues,2017-12-17 23:59
+kkbox-music-recommendation-challenge,https://www.kaggle.com/c/kkbox-music-recommendation-challenge,Research,1081,1,0,1,n,"Recsys, no time data ",2017-12-17 23:59
+porto-seguro-safe-driver-prediction,https://www.kaggle.com/c/porto-seguro-safe-driver-prediction,Featured,5156,1,0,1,n,No time data,2017-11-29 23:59
+mercedes-benz-greener-manufacturing,https://www.kaggle.com/c/mercedes-benz-greener-manufacturing,Featured,3823,1,0,1,n,No time data,2017-07-10 23:59
+sberbank-russian-housing-market,https://www.kaggle.com/c/sberbank-russian-housing-market,Featured,3264,1,1,1,y,In the benchmark,2017-06-29 23:59
+two-sigma-connect-rental-listing-inquiries,https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries,Recruitment,2480,1,1,1,?,"No established FE pipeline, (maybe no time)",2017-04-25 23:59
+outbrain-click-prediction,https://www.kaggle.com/c/outbrain-click-prediction,Featured,978,1,1,1,n,Leak features,2017-01-18 23:59
+santander-product-recommendation,https://www.kaggle.com/c/santander-product-recommendation,Featured,1779,1,1,1,?,"Recsys, good dataset with no aparent issues",2016-12-21 23:59
+allstate-claims-severity,https://www.kaggle.com/c/allstate-claims-severity,Recruitment,3045,1,0,1,n,No time data,2016-12-12 23:59
+bosch-production-line-performance,https://www.kaggle.com/c/bosch-production-line-performance,Featured,1370,1,0,1,n,No time data. Leakage issues (mostly time and sample dependence),2016-11-11 23:59
+predicting-red-hat-business-value,https://www.kaggle.com/c/predicting-red-hat-business-value,Featured,2260,1,1,1,n,Leakage found,2016-09-19 23:59
+grupo-bimbo-inventory-demand,https://www.kaggle.com/c/grupo-bimbo-inventory-demand,Featured,1963,1,1,1,?,"No features other than lags, otherwise fine",2016-08-30 23:59
+facebook-v-predicting-check-ins,https://www.kaggle.com/c/facebook-v-predicting-check-ins,Recruitment,1209,1,1,1,?,"No features other than coordinates and time, predicting check-ins.",2016-07-06 23:59
+expedia-hotel-recommendations,https://www.kaggle.com/c/expedia-hotel-recommendations,Featured,1971,1,1,1,?,Recsys task,2016-06-10 23:59
+santander-customer-satisfaction,https://www.kaggle.com/c/santander-customer-satisfaction,Featured,5115,1,0,1,n,time-split is impossible,2016-05-02 23:59
+bnp-paribas-cardif-claims-management,https://www.kaggle.com/c/bnp-paribas-cardif-claims-management,Featured,2920,1,0,1,n,time-split is impossible,2016-04-18 23:59
+march-machine-learning-mania-2016,https://www.kaggle.com/c/march-machine-learning-mania-2016,Featured,596,1,1,1,?,"Predict an outcome of a basketball tournament, small test set, too noisy",2016-04-05 06:00
+telstra-recruiting-network,https://www.kaggle.com/c/telstra-recruiting-network,Recruitment,971,1,0,1,n,"Time-split is unclear, kagglers were able to abuse leak based on the order of examples, but actual time feature was not provided. ",2016-02-29 23:59
+prudential-life-insurance-assessment,https://www.kaggle.com/c/prudential-life-insurance-assessment,Featured,2610,1,0,1,n,"Timestamps not available, target is ordinal, may be solved as regression.",2016-02-15 23:59
+airbnb-recruiting-new-user-bookings,https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings,Recruitment,1458,1,1,1,?,"Recsys task, otherwise good",2016-02-11 23:59
+homesite-quote-conversion,https://www.kaggle.com/c/homesite-quote-conversion,Featured,1755,1,1,1,y,"Good, we used it",2016-02-08 23:59
+walmart-recruiting-trip-type-classification,https://www.kaggle.com/c/walmart-recruiting-trip-type-classification,Recruitment,1043,1,0,1,n,Timestamp not available,2015-12-27 23:59
+rossmann-store-sales,https://www.kaggle.com/c/rossmann-store-sales,Featured,3298,1,1,1,?,"Features are a bit shallow, otherwise good",2015-12-14 23:59
+how-much-did-it-rain-ii,https://www.kaggle.com/c/how-much-did-it-rain-ii,Research,587,1,0,1,n,No time data,2015-12-07 23:59
+springleaf-marketing-response,https://www.kaggle.com/c/springleaf-marketing-response,Featured,2221,1,0,1,n,No time data,2015-10-19 23:59
+flavours-of-physics,https://www.kaggle.com/c/flavours-of-physics,Featured,673,0,0,1,?,Scientific dataset,2015-10-12 23:59
+liberty-mutual-group-property-inspection-prediction,https://www.kaggle.com/c/liberty-mutual-group-property-inspection-prediction,Featured,2232,1,0,1,n,No time data,2015-08-28 23:59
+facebook-recruiting-iv-human-or-bot,https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot,Recruitment,983,1,0,1,n,"Unclear how to perform time-split, target is somewhat auto-labeled",2015-06-08 23:59
+otto-group-product-classification-challenge,https://www.kaggle.com/c/otto-group-product-classification-challenge,Featured,3507,1,0,1,n,No clear buisness split (no timestamps available).,2015-05-18 23:59
+restaurant-revenue-prediction,https://www.kaggle.com/c/restaurant-revenue-prediction,Featured,2257,1,0,1,n,"Timesplit not possible, features are anonymized, train dataset is very small (137 examples)",2015-05-04 23:59
+avazu-ctr-prediction,https://www.kaggle.com/c/avazu-ctr-prediction,Featured,1602,1,1,1,?,"CTR, no established FE",2015-02-09 23:59
+criteo-display-ad-challenge,https://www.kaggle.com/c/criteo-display-ad-challenge,Research,717,1,1,1,?,"CTR, no established FE",2014-09-23 23:59
+higgs-boson,https://www.kaggle.com/c/higgs-boson,Featured,1784,0,0,1,?,Synthetic physics data,2014-09-15 23:59
+liberty-mutual-fire-peril,https://www.kaggle.com/c/liberty-mutual-fire-peril,Featured,632,1,0,1,n,No time data,2014-09-02 23:59
+acquire-valued-shoppers-challenge,https://www.kaggle.com/c/acquire-valued-shoppers-challenge,Featured,949,1,1,1,y,"Good, was used in our benchmark",2014-07-14 23:59
+allstate-purchase-prediction-challenge,https://www.kaggle.com/c/allstate-purchase-prediction-challenge,Featured,1566,1,0,1,n,No time data,2014-05-19 23:59
+walmart-recruiting-store-sales-forecasting,https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting,Recruitment,688,1,1,1,?,"No established FE, just time data",2014-05-05 23:59
+pakdd-cup-2014,https://www.kaggle.com/c/pakdd-cup-2014,Research,607,1,0,1,?,"Recsys-like task, no time data",2014-04-01 04:00
+loan-default-prediction,https://www.kaggle.com/c/loan-default-prediction,Research,672,1,0,1,n,"Issues with preprocessing and FE (magic features), no clear timestamps available",2014-03-14 23:59
+kddcup2012-track1,https://www.kaggle.com/c/kddcup2012-track1,Featured,656,1,1,1,?,Recsys task,2012-06-01 23:59
+DontGetKicked,https://www.kaggle.com/c/DontGetKicked,Featured,570,1,1,1,?,"No established FE and solution, ",2012-01-05 23:59
+GiveMeSomeCredit,https://www.kaggle.com/c/GiveMeSomeCredit,Featured,924,1,0,1,n,No time data,2011-12-15 23:59
+child-mind-institute-detect-sleep-states,https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states,Featured,1877,,,0,,Medical timeseries accelerometer data. Not tabular,2023-12-05 23:59
+neurips-2023-machine-unlearning,https://www.kaggle.com/competitions/neurips-2023-machine-unlearning,Research,1121,,,0,,"Machine unlearning challenge, not a typical tabular problem",2023-11-29 23:59
+predict-ai-model-runtime,https://www.kaggle.com/competitions/predict-ai-model-runtime,Research,616,,,0,,"Graphs, specific data type, not tabular ML",2023-11-17 23:59
+ai-village-capture-the-flag-defcon31,https://www.kaggle.com/competitions/ai-village-capture-the-flag-defcon31,Featured,1344,,,0,,"Not tabular, RL",2023-11-09 23:59
+bengaliai-speech,https://www.kaggle.com/competitions/bengaliai-speech,Research,744,,,0,,"Speech recognition, not tabular",2023-10-17 23:59
+rsna-2023-abdominal-trauma-detection,https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection,Featured,1125,,,0,,"Not tabular, vision",2023-10-15 23:59
+commonlit-evaluate-student-summaries,https://www.kaggle.com/competitions/commonlit-evaluate-student-summaries,Featured,2064,,,0,,text,2023-10-11 23:59
+kaggle-llm-science-exam,https://www.kaggle.com/competitions/kaggle-llm-science-exam,Featured,2664,,,0,,текст,2023-10-10 23:59
+asl-fingerspelling,https://www.kaggle.com/competitions/asl-fingerspelling,Research,1315,,,0,,"Not tabular, video",2023-08-24 23:59
+google-research-identify-contrails-reduce-global-warming,https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming,Research,954,,,0,,"Not tabular, images",2023-08-09 23:59
+hubmap-hacking-the-human-vasculature,https://www.kaggle.com/competitions/hubmap-hacking-the-human-vasculature,Research,1021,,,0,,"Not tabular, images",2023-07-31 23:59
+benetech-making-graphs-accessible,https://www.kaggle.com/competitions/benetech-making-graphs-accessible,Featured,608,,,0,,,2023-06-19 23:59
+vesuvius-challenge-ink-detection,https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection,Featured,1249,,,0,,,2023-06-14 23:59
+image-matching-challenge-2023,https://www.kaggle.com/competitions/image-matching-challenge-2023,Research,674,,,0,,,2023-06-12 23:59
+tlvmc-parkinsons-freezing-gait-prediction,https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction,Research,1688,,,0,,Medical timeseries data. Not tabular,2023-06-08 23:59
+birdclef-2023,https://www.kaggle.com/competitions/birdclef-2023,Research,1397,,,0,,sound,2023-05-24 23:59
+stable-diffusion-image-to-prompts,https://www.kaggle.com/competitions/stable-diffusion-image-to-prompts,Featured,1231,,,0,,,2023-05-15 23:59
+lux-ai-season-2,https://www.kaggle.com/competitions/lux-ai-season-2,Featured,646,,,0,,,2023-05-08 23:59
+asl-signs,https://www.kaggle.com/competitions/asl-signs,Research,1165,,,0,,,2023-05-01 23:59
+icecube-neutrinos-in-deep-ice,https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice,Research,812,,,0,,"Scientific data. Highly specific data type, competitors mostly use graph neural networks ",2023-04-19 23:59
+nfl-player-contact-detection,https://www.kaggle.com/competitions/nfl-player-contact-detection,Featured,939,,,0,,,2023-03-01 23:59
+rsna-breast-cancer-detection,https://www.kaggle.com/competitions/rsna-breast-cancer-detection,Featured,1687,,,0,,,2023-02-27 23:59
+santa-2022,https://www.kaggle.com/competitions/santa-2022,Featured,874,,,0,,,2023-01-17 23:59
+g2net-detecting-continuous-gravitational-waves,https://www.kaggle.com/competitions/g2net-detecting-continuous-gravitational-waves,Research,936,,,0,,"Scientific signal processing data, not tabular",2023-01-03 23:59
+novozymes-enzyme-stability-prediction,https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction,Featured,2482,,,0,,"Chemistry, protein sequences, not tabular",2023-01-03 23:59
+feedback-prize-english-language-learning,https://www.kaggle.com/competitions/feedback-prize-english-language-learning,Featured,2654,,,0,,текст,2022-11-29 23:59
+AI4Code,https://www.kaggle.com/competitions/AI4Code,Featured,1024,,,0,,,2022-11-10 23:59
+rsna-2022-cervical-spine-fracture-detection,https://www.kaggle.com/competitions/rsna-2022-cervical-spine-fracture-detection,Featured,883,,,0,,,2022-10-27 23:59
+google-universal-image-embedding,https://www.kaggle.com/competitions/google-universal-image-embedding,Research,1022,,,0,,,2022-10-10 23:59
+mayo-clinic-strip-ai,https://www.kaggle.com/competitions/mayo-clinic-strip-ai,Research,888,,,0,,,2022-10-05 23:59
+hubmap-organ-segmentation,https://www.kaggle.com/competitions/hubmap-organ-segmentation,Research,1174,,,0,,,2022-09-22 23:59
+ai-village-ctf,https://www.kaggle.com/competitions/ai-village-ctf,Research,668,,,0,,,2022-09-12 00:00
+feedback-prize-effectiveness,https://www.kaggle.com/competitions/feedback-prize-effectiveness,Featured,1557,,,0,,,2022-08-23 23:59
+smartphone-decimeter-2022,https://www.kaggle.com/competitions/smartphone-decimeter-2022,Research,573,,,0,,A signal processing problem (many solutions don't rely on end2end ML models),2022-07-29 23:59
+kore-2022,https://www.kaggle.com/competitions/kore-2022,Featured,537,,,0,,,2022-07-26 23:59
+uw-madison-gi-tract-image-segmentation,https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation,Research,1548,,,0,,,2022-07-14 23:59
+foursquare-location-matching,https://www.kaggle.com/competitions/foursquare-location-matching,Featured,1079,,,0,,data unavailable,2022-07-07 23:59
+us-patent-phrase-to-phrase-matching,https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching,Featured,1889,,,0,,,2022-06-20 23:59
+image-matching-challenge-2022,https://www.kaggle.com/competitions/image-matching-challenge-2022,Research,642,,,0,,,2022-06-02 23:59
+birdclef-2022,https://www.kaggle.com/competitions/birdclef-2022,Research,801,,,0,,,2022-05-24 23:59
+h-and-m-personalized-fashion-recommendations,https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations,Featured,2952,,,0,,recommender systems,2022-05-09 23:59
+nbme-score-clinical-patient-notes,https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes,Featured,1471,,,0,,,2022-05-03 23:59
+happy-whale-and-dolphin,https://www.kaggle.com/competitions/happy-whale-and-dolphin,Research,1588,,,0,,,2022-04-18 23:59
+feedback-prize-2021,https://www.kaggle.com/competitions/feedback-prize-2021,Featured,2058,,,0,,text,2022-03-15 23:59
+tensorflow-great-barrier-reef,https://www.kaggle.com/competitions/tensorflow-great-barrier-reef,Research,2025,,,0,,images/text,2022-02-14 23:59
+jigsaw-toxic-severity-rating,https://www.kaggle.com/competitions/jigsaw-toxic-severity-rating,Featured,2301,,,0,,текст,2022-02-07 23:59
+petfinder-pawpularity-score,https://www.kaggle.com/competitions/petfinder-pawpularity-score,Research,3537,,,0,,images (but multimodal),2022-01-14 23:59
+santa-2021,https://www.kaggle.com/competitions/santa-2021,Featured,867,,,0,,,2022-01-12 23:59
+sartorius-cell-instance-segmentation,https://www.kaggle.com/competitions/sartorius-cell-instance-segmentation,Featured,1505,,,0,,,2021-12-30 23:59
+lux-ai-2021,https://www.kaggle.com/competitions/lux-ai-2021,Featured,1449,,,0,,rl/env,2021-12-20 23:59
+chaii-hindi-and-tamil-question-answering,https://www.kaggle.com/competitions/chaii-hindi-and-tamil-question-answering,Research,943,,,0,,,2021-11-15 23:59
+ventilator-pressure-prediction,https://www.kaggle.com/competitions/ventilator-pressure-prediction,Research,2605,,,0,,,2021-11-03 23:59
+rsna-miccai-brain-tumor-radiogenomic-classification,https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification,Featured,536,,,0,,images,2021-10-15 23:59
+g2net-gravitational-wave-detection,https://www.kaggle.com/c/g2net-gravitational-wave-detection,Research,560,,,0,,time series,2021-09-29 23:59
+optiver-realized-volatility-prediction,https://www.kaggle.com/c/optiver-realized-volatility-prediction,Featured,1961,,,0,,time series,2021-09-27 23:59
+jane-street-market-prediction,https://www.kaggle.com/c/jane-street-market-prediction,Featured,4245,,,0,,time series,2021-08-23 23:59
+seti-breakthrough-listen,https://www.kaggle.com/c/seti-breakthrough-listen,Research,633,,,0,,structured data,2021-08-18 23:59
+siim-covid19-detection,https://www.kaggle.com/c/siim-covid19-detection,Featured,1324,,,0,,images,2021-08-09 23:59
+google-smartphone-decimeter-challenge,https://www.kaggle.com/c/google-smartphone-decimeter-challenge,Research,810,,,0,,spatial info,2021-08-04 23:59
+commonlitreadabilityprize,https://www.kaggle.com/c/commonlitreadabilityprize,Featured,3633,,,0,,text,2021-08-02 23:59
+coleridgeinitiative-show-us-the-data,https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data,Featured,1610,,,0,,text,2021-06-22 23:59
+bms-molecular-translation,https://www.kaggle.com/c/bms-molecular-translation,Featured,874,,,0,,images,2021-06-03 23:59
+birdclef-2021,https://www.kaggle.com/c/birdclef-2021,Research,816,,,0,,sound,2021-06-01 23:59
+plant-pathology-2021-fgvc8,https://www.kaggle.com/c/plant-pathology-2021-fgvc8,Research,626,,,0,,images,2021-05-26 23:59
+indoor-location-navigation,https://www.kaggle.com/c/indoor-location-navigation,Research,1170,,,0,,spatial info,2021-05-17 23:59
+hpa-single-cell-image-classification,https://www.kaggle.com/c/hpa-single-cell-image-classification,Featured,757,,,0,,images,2021-05-11 23:59
+hubmap-kidney-segmentation,https://www.kaggle.com/c/hubmap-kidney-segmentation,Research,1200,,,0,,images,2021-05-10 23:59
+shopee-product-matching,https://www.kaggle.com/c/shopee-product-matching,Featured,2426,,,0,,images,2021-05-10 23:59
+vinbigdata-chest-xray-abnormalities-detection,https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection,Featured,1275,,,0,,images,2021-03-30 23:59
+ranzcr-clip-catheter-line-classification,https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification,Featured,1547,,,0,,images,2021-03-16 23:59
+santa-2020,https://www.kaggle.com/c/santa-2020,Featured,788,,,0,,not our task type,2021-02-22 23:59
+cassava-leaf-disease-classification,https://www.kaggle.com/c/cassava-leaf-disease-classification,Research,3900,,,0,,images,2021-02-18 23:59
+rfcx-species-audio-detection,https://www.kaggle.com/c/rfcx-species-audio-detection,Research,1143,,,0,,sound,2021-02-17 23:59
+riiid-test-answer-prediction,https://www.kaggle.com/c/riiid-test-answer-prediction,Featured,3395,,,0,,time series,2021-01-07 23:59
+google-football,https://www.kaggle.com/c/google-football,Featured,1138,,,0,,not our task type,2020-12-11 23:59
+lyft-motion-prediction-autonomous-vehicles,https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles,Featured,935,,,0,,spatial info,2020-11-25 23:59
+rsna-str-pulmonary-embolism-detection,https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection,Featured,784,,,0,,images,2020-10-26 23:59
+stanford-covid-vaccine,https://www.kaggle.com/c/stanford-covid-vaccine,Research,1636,,,0,,"Biology, research. RNA sequences. Not tabular data",2020-10-06 23:59
+osic-pulmonary-fibrosis-progression,https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression,Featured,2097,,,0,,images,2020-10-06 23:59
+landmark-recognition-2020,https://www.kaggle.com/c/landmark-recognition-2020,Research,736,,,0,,images,2020-09-29 23:59
+halite,https://www.kaggle.com/c/halite,Featured,1139,,,0,,not our task type,2020-09-22 23:59
+birdsong-recognition,https://www.kaggle.com/c/birdsong-recognition,Research,1390,,,0,,sound,2020-09-15 23:59
+global-wheat-detection,https://www.kaggle.com/c/global-wheat-detection,Research,2245,,,0,,images,2020-08-19 01:59
+landmark-retrieval-2020,https://www.kaggle.com/c/landmark-retrieval-2020,Research,541,,,0,,images,2020-08-17 23:59
+siim-isic-melanoma-classification,https://www.kaggle.com/c/siim-isic-melanoma-classification,Featured,3308,,,0,,images,2020-08-17 23:59
+prostate-cancer-grade-assessment,https://www.kaggle.com/c/prostate-cancer-grade-assessment,Featured,1010,,,0,,images,2020-07-22 23:59
+alaska2-image-steganalysis,https://www.kaggle.com/c/alaska2-image-steganalysis,Research,1095,,,0,,images,2020-07-20 23:59
+m5-forecasting-uncertainty,https://www.kaggle.com/c/m5-forecasting-uncertainty,Featured,909,,,0,,not our task type,2020-06-30 23:59
+trends-assessment-prediction,https://www.kaggle.com/c/trends-assessment-prediction,Research,1047,,,0,,images,2020-06-29 23:59
+jigsaw-multilingual-toxic-comment-classification,https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification,Featured,1621,,,0,,text,2020-06-22 23:59
+tweet-sentiment-extraction,https://www.kaggle.com/c/tweet-sentiment-extraction,Featured,2225,,,0,,text,2020-06-16 23:59
+abstraction-and-reasoning-challenge,https://www.kaggle.com/c/abstraction-and-reasoning-challenge,Research,913,,,0,,not our task type,2020-05-27 23:59
+plant-pathology-2020-fgvc7,https://www.kaggle.com/c/plant-pathology-2020-fgvc7,Research,1317,,,0,,images,2020-05-26 23:59
+liverpool-ion-switching,https://www.kaggle.com/c/liverpool-ion-switching,Research,2618,,,0,,time series,2020-05-25 23:59
+deepfake-detection-challenge,https://www.kaggle.com/c/deepfake-detection-challenge,Featured,2265,,,0,,images,2020-04-23 22:17
+covid19-global-forecasting-week-1,https://www.kaggle.com/c/covid19-global-forecasting-week-1,Research,545,,,0,,time series,2020-03-25 23:59
+bengaliai-cv19,https://www.kaggle.com/c/bengaliai-cv19,Research,2059,,,0,,images,2020-03-16 23:59
+google-quest-challenge,https://www.kaggle.com/c/google-quest-challenge,Featured,1571,,,0,,text,2020-02-10 23:59
+tensorflow2-question-answering,https://www.kaggle.com/c/tensorflow2-question-answering,Featured,1233,,,0,,text,2020-01-22 23:59
+data-science-bowl-2019,https://www.kaggle.com/c/data-science-bowl-2019,Featured,3493,,,0,,removed dataset,2020-01-22 23:59
+pku-autonomous-driving,https://www.kaggle.com/c/pku-autonomous-driving,Featured,864,,,0,,images,2020-01-21 23:59
+santa-workshop-tour-2019,https://www.kaggle.com/c/santa-workshop-tour-2019,Featured,1618,,,0,,not our task type,2020-01-15 23:59
+understanding_cloud_organization,https://www.kaggle.com/c/understanding_cloud_organization,Research,1531,,,0,,images,2019-11-18 23:59
+rsna-intracranial-hemorrhage-detection,https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection,Featured,1345,,,0,,images,2019-11-13 23:59
+3d-object-detection-for-autonomous-vehicles,https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles,Featured,546,,,0,,images,2019-11-12 23:59
+severstal-steel-defect-detection,https://www.kaggle.com/c/severstal-steel-defect-detection,Featured,2427,,,0,,images,2019-10-24 23:59
+open-images-2019-object-detection,https://www.kaggle.com/c/open-images-2019-object-detection,Research,558,,,0,,images,2019-10-01 23:59
+recursion-cellular-image-classification,https://www.kaggle.com/c/recursion-cellular-image-classification,Research,865,,,0,,images,2019-09-26 23:59
+aptos2019-blindness-detection,https://www.kaggle.com/c/aptos2019-blindness-detection,Featured,2928,,,0,,images,2019-09-07 23:59
+siim-acr-pneumothorax-segmentation,https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation,Featured,1475,,,0,,images,2019-09-04 23:59
+champs-scalar-coupling,https://www.kaggle.com/c/champs-scalar-coupling,Featured,2737,,,0,,"GNN, molecules",2019-08-28 23:59
+generative-dog-images,https://www.kaggle.com/c/generative-dog-images,Research,927,,,0,,images,2019-08-28 19:23
+two-sigma-financial-news,https://www.kaggle.com/c/two-sigma-financial-news,Featured,2927,,,0,,removed dataset,2019-08-05 23:59
+jigsaw-unintended-bias-in-toxicity-classification,https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification,Featured,3165,,,0,,text,2019-07-18 19:35
+instant-gratification,https://www.kaggle.com/c/instant-gratification,Featured,1818,,,0,,not our task type,2019-06-20 23:59
+freesound-audio-tagging-2019,https://www.kaggle.com/c/freesound-audio-tagging-2019,Research,880,,,0,,sound,2019-06-17 22:22
+imet-2019-fgvc6,https://www.kaggle.com/c/imet-2019-fgvc6,Research,521,,,0,,images,2019-06-10 22:09
+LANL-Earthquake-Prediction,https://www.kaggle.com/c/LANL-Earthquake-Prediction,Research,4516,,,0,,time series,2019-06-03 23:59
+gendered-pronoun-resolution,https://www.kaggle.com/c/gendered-pronoun-resolution,Research,838,,,0,,text,2019-04-22 23:59
+career-con-2019,https://www.kaggle.com/c/career-con-2019,Recruitment,1443,,,0,,time series,2019-04-11 23:59
+petfinder-adoption-prediction,https://www.kaggle.com/c/petfinder-adoption-prediction,Featured,2023,,,0,,images/text,2019-04-10 01:09
+mens-machine-learning-competition-2019,https://www.kaggle.com/c/mens-machine-learning-competition-2019,Featured,862,,,0,,duplicate,2019-04-09 06:00
+vsb-power-line-fault-detection,https://www.kaggle.com/c/vsb-power-line-fault-detection,Featured,1445,,,0,,time series,2019-03-21 23:59
+humpback-whale-identification,https://www.kaggle.com/c/humpback-whale-identification,Featured,2120,,,0,,images,2019-02-28 23:59
+quora-insincere-questions-classification,https://www.kaggle.com/c/quora-insincere-questions-classification,Featured,4037,,,0,,text,2019-02-13 23:09
+traveling-santa-2018-prime-paths,https://www.kaggle.com/c/traveling-santa-2018-prime-paths,Featured,1867,,,0,,not our task type,2019-01-10 23:59
+human-protein-atlas-image-classification,https://www.kaggle.com/c/human-protein-atlas-image-classification,Featured,2160,,,0,,images,2019-01-10 23:59
+quickdraw-doodle-recognition,https://www.kaggle.com/c/quickdraw-doodle-recognition,Featured,1309,,,0,,images,2018-12-04 23:59
+airbus-ship-detection,https://www.kaggle.com/c/airbus-ship-detection,Featured,878,,,0,,imagess,2018-11-14 23:59
+rsna-pneumonia-detection-challenge,https://www.kaggle.com/c/rsna-pneumonia-detection-challenge,Featured,1499,,,0,,images,2018-10-31 23:59
+tgs-salt-identification-challenge,https://www.kaggle.com/c/tgs-salt-identification-challenge,Featured,3219,,,0,,images,2018-10-19 23:59
+trackml-particle-identification,https://www.kaggle.com/c/trackml-particle-identification,Featured,651,,,0,,3d points,2018-08-13 23:59
+freesound-audio-tagging,https://www.kaggle.com/c/freesound-audio-tagging,Research,556,,,0,,sound,2018-08-01 11:59
+avito-demand-prediction,https://www.kaggle.com/c/avito-demand-prediction,Featured,1868,,,0,,images,2018-06-27 23:59
+data-science-bowl-2018,https://www.kaggle.com/c/data-science-bowl-2018,Featured,3634,,,0,,images,2018-04-16 23:59
+mens-machine-learning-competition-2018,https://www.kaggle.com/c/mens-machine-learning-competition-2018,Featured,933,,,0,,duplicate,2018-04-02 23:59
+womens-machine-learning-competition-2018,https://www.kaggle.com/c/womens-machine-learning-competition-2018,Featured,504,,,0,,duplicate,2018-04-01 23:59
+jigsaw-toxic-comment-classification-challenge,https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge,Featured,4539,,,0,,text,2018-03-20 23:59
+mercari-price-suggestion-challenge,https://www.kaggle.com/c/mercari-price-suggestion-challenge,Featured,2380,,,0,,text,2018-02-21 20:03
+nomad2018-predict-transparent-conductors,https://www.kaggle.com/c/nomad2018-predict-transparent-conductors,Research,878,,,0,,spatial info,2018-02-15 23:59
+sp-society-camera-model-identification,https://www.kaggle.com/c/sp-society-camera-model-identification,Featured,580,,,0,,images,2018-02-08 23:59
+statoil-iceberg-classifier-challenge,https://www.kaggle.com/c/statoil-iceberg-classifier-challenge,Featured,3330,,,0,,images,2018-01-23 23:59
+tensorflow-speech-recognition-challenge,https://www.kaggle.com/c/tensorflow-speech-recognition-challenge,Featured,1313,,,0,,sound,2018-01-16 23:59
+passenger-screening-algorithm-challenge,https://www.kaggle.com/c/passenger-screening-algorithm-challenge,Featured,518,,,0,,image,2017-12-15 23:59
+cdiscount-image-classification-challenge,https://www.kaggle.com/c/cdiscount-image-classification-challenge,Featured,626,,,0,,image,2017-12-14 23:59
+web-traffic-time-series-forecasting,https://www.kaggle.com/c/web-traffic-time-series-forecasting,Research,1095,,,0,,time series,2017-11-15 23:59
+msk-redefining-cancer-treatment,https://www.kaggle.com/c/msk-redefining-cancer-treatment,Research,1386,,,0,,text,2017-10-02 23:59
+carvana-image-masking-challenge,https://www.kaggle.com/c/carvana-image-masking-challenge,Featured,734,,,0,,images,2017-09-27 23:59
+instacart-market-basket-analysis,https://www.kaggle.com/c/instacart-market-basket-analysis,Featured,2621,,,0,,not our task type,2017-08-14 23:59
+planet-understanding-the-amazon-from-space,https://www.kaggle.com/c/planet-understanding-the-amazon-from-space,Featured,936,,,0,,images,2017-07-20 23:59
+intel-mobileodt-cervical-cancer-screening,https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening,Featured,848,,,0,,images,2017-06-21 23:59
+quora-question-pairs,https://www.kaggle.com/c/quora-question-pairs,Featured,3295,,,0,,text,2017-06-06 23:59
+youtube8m,https://www.kaggle.com/c/youtube8m,Featured,655,,,0,,videos,2017-06-02 23:59
+data-science-bowl-2017,https://www.kaggle.com/c/data-science-bowl-2017,Featured,1972,,,0,,duplicated,2017-04-12 23:59
+the-nature-conservancy-fisheries-monitoring,https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring,Featured,2293,,,0,,images,2017-04-12 23:59
+two-sigma-financial-modeling,https://www.kaggle.com/c/two-sigma-financial-modeling,Featured,2063,,,0,,time series,2017-03-01 23:59
+talkingdata-mobile-user-demographics,https://www.kaggle.com/c/talkingdata-mobile-user-demographics,Featured,1680,,,0,,time data,2016-09-05 23:59
+ultrasound-nerve-segmentation,https://www.kaggle.com/c/ultrasound-nerve-segmentation,Featured,922,,,0,,images,2016-08-18 23:59
+state-farm-distracted-driver-detection,https://www.kaggle.com/c/state-farm-distracted-driver-detection,Featured,1438,,,0,,images,2016-08-01 23:59
+avito-duplicate-ads-detection,https://www.kaggle.com/c/avito-duplicate-ads-detection,Featured,546,,,0,,,2016-07-11 23:59
+home-depot-product-search-relevance,https://www.kaggle.com/c/home-depot-product-search-relevance,Featured,2123,,,0,,,2016-04-25 23:59
+the-winton-stock-market-challenge,https://www.kaggle.com/c/the-winton-stock-market-challenge,Featured,829,,,0,,,2016-01-26 23:59
+santas-stolen-sleigh,https://www.kaggle.com/c/santas-stolen-sleigh,Featured,1126,,,0,,,2016-01-08 23:59
+coupon-purchase-prediction,https://www.kaggle.com/c/coupon-purchase-prediction,Featured,1072,,,0,,,2015-09-30 23:59
+machinery-tube-pricing,https://www.kaggle.com/c/machinery-tube-pricing,Featured,1320,,,0,,удален,2015-08-31 23:59
+diabetic-retinopathy-detection,https://www.kaggle.com/c/diabetic-retinopathy-detection,Featured,660,,,0,,картинки,2015-07-27 23:59
+crowdflower-search-relevance,https://www.kaggle.com/c/crowdflower-search-relevance,Featured,1324,,,0,,текст,2015-07-06 23:59
+predict-west-nile-virus,https://www.kaggle.com/c/predict-west-nile-virus,Featured,1304,,,0,,,2015-06-17 23:59
+15-071x-the-analytics-edge-competition-spring-2015,https://www.kaggle.com/c/15-071x-the-analytics-edge-competition-spring-2015,Research,2920,,,0,,приватное,2015-05-04 23:59
+datasciencebowl,https://www.kaggle.com/c/datasciencebowl,Featured,1049,,,0,,картинки,2015-03-16 23:59
+axa-driver-telematics-analysis,https://www.kaggle.com/c/axa-driver-telematics-analysis,Featured,1524,,,0,,,2015-03-16 23:59
+seizure-prediction,https://www.kaggle.com/c/seizure-prediction,Research,504,,,0,,,2014-11-17 23:59
+afsis-soil-properties,https://www.kaggle.com/c/afsis-soil-properties,Research,1231,,,0,,мало данных,2014-10-21 23:59
+see-click-predict-fix,https://www.kaggle.com/c/see-click-predict-fix,Featured,530,,,0,,< 10k,2013-11-27 23:59
+accelerometer-biometric-competition,https://www.kaggle.com/c/accelerometer-biometric-competition,Research,630,,,0,,"акселерометр (time, x,y,z, device_id)",2013-11-22 23:59
+stumbleupon,https://www.kaggle.com/c/stumbleupon,Featured,624,,,0,,датасет url'ов,2013-10-31 23:59
+amazon-employee-access-challenge,https://www.kaggle.com/c/amazon-employee-access-challenge,Featured,1686,,,0,,был у нас (amazon) 96% majority класса,2013-07-31 23:59
+kdd-cup-2013-author-paper-identification-challenge,https://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge,Featured,552,,,0,,Learning to rank task. mostly text,2013-06-26 23:59
+hhp,https://www.kaggle.com/c/hhp,Featured,1350,,,0,,нет данных,2013-04-04 07:00
+bioresponse,https://www.kaggle.com/c/bioresponse,Featured,698,,,0,,"Classification on molecules, non tabular",2012-06-15 23:59
